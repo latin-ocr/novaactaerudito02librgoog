@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaerudito02librgoog_0126.png"; bbox 0 0 3825 4950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 656 697 1773 3366">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 656 697 1773 3366">
+     <span class='ocr_line' id='line_1_1' title="bbox 656 697 1773 3366; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 656 697 1773 3366; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2405 173 2413 216">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2405 173 2413 216">
+     <span class='ocr_line' id='line_1_2' title="bbox 2405 173 2413 216; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 2405 173 2413 216; x_wconf 59' lang='grc' dir='ltr'><strong>..ο</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2462 1064 2478 1838">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2462 1064 2478 1838">
+     <span class='ocr_line' id='line_1_3' title="bbox 2462 1064 2478 1838; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 2463 1767 2474 1838; x_wconf 72' lang='grc'><strong>’“·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2465 1627 2476 1726; x_wconf 52' lang='lat'><strong>”0⁴0⁴</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2462 1155 2478 1605; x_wconf 37' lang='lat' dir='ltr'><strong>”cdv-*ffluffloo</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2467 1064 2472 1079; x_wconf 84' lang='grc'><strong>,,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3758 3225 3760 3800">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3758 3225 3760 3800">
+     <span class='ocr_line' id='line_1_4' title="bbox 3758 3225 3760 3800; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 3758 3225 3760 3800; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3758 3978 3761 4905">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3758 3978 3761 4905">
+     <span class='ocr_line' id='line_1_5' title="bbox 3758 3978 3761 4905; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 3758 3978 3761 4905; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
